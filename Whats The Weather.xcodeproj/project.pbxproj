@@ -14,6 +14,9 @@
 		E10A50A11C698076006F2C58 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E10A509F1C698076006F2C58 /* LaunchScreen.storyboard */; };
 		E10A50AC1C698076006F2C58 /* Whats_The_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10A50AB1C698076006F2C58 /* Whats_The_WeatherTests.swift */; };
 		E10A50B71C698076006F2C58 /* Whats_The_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10A50B61C698076006F2C58 /* Whats_The_WeatherUITests.swift */; };
+		E10A50C51C6980E6006F2C58 /* weather.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E10A50C41C6980E6006F2C58 /* weather.jpeg */; };
+		E10A50C71C69819D006F2C58 /* weather-rainbow.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E10A50C61C69819D006F2C58 /* weather-rainbow.jpeg */; };
+		E10A50C91C69822C006F2C58 /* cloudy_d-e618500.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E10A50C81C69822C006F2C58 /* cloudy_d-e618500.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		E10A50B21C698076006F2C58 /* Whats The WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats The WeatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E10A50B61C698076006F2C58 /* Whats_The_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_The_WeatherUITests.swift; sourceTree = "<group>"; };
 		E10A50B81C698076006F2C58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E10A50C41C6980E6006F2C58 /* weather.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weather.jpeg; sourceTree = "<group>"; };
+		E10A50C61C69819D006F2C58 /* weather-rainbow.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "weather-rainbow.jpeg"; sourceTree = "<group>"; };
+		E10A50C81C69822C006F2C58 /* cloudy_d-e618500.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cloudy_d-e618500.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +103,9 @@
 		E10A50951C698075006F2C58 /* Whats The Weather */ = {
 			isa = PBXGroup;
 			children = (
+				E10A50C81C69822C006F2C58 /* cloudy_d-e618500.jpg */,
+				E10A50C61C69819D006F2C58 /* weather-rainbow.jpeg */,
+				E10A50C41C6980E6006F2C58 /* weather.jpeg */,
 				E10A50961C698075006F2C58 /* AppDelegate.swift */,
 				E10A50981C698075006F2C58 /* ViewController.swift */,
 				E10A509A1C698076006F2C58 /* Main.storyboard */,
@@ -232,6 +241,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E10A50C91C69822C006F2C58 /* cloudy_d-e618500.jpg in Resources */,
+				E10A50C51C6980E6006F2C58 /* weather.jpeg in Resources */,
+				E10A50C71C69819D006F2C58 /* weather-rainbow.jpeg in Resources */,
 				E10A50A11C698076006F2C58 /* LaunchScreen.storyboard in Resources */,
 				E10A509E1C698076006F2C58 /* Assets.xcassets in Resources */,
 				E10A509C1C698076006F2C58 /* Main.storyboard in Resources */,
